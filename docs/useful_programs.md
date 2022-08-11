@@ -2,6 +2,8 @@
 
 # Useful Programs and Websites
 
+Note: I have been developing on Mac for almost a decade, so many of these programs may be Mac specific, but some of them may not.
+
 ## Author: Zach DeGeorge
 
 1. FTP Client: [Cyberduck](https://cyberduck.io/)
@@ -29,4 +31,4 @@
 1. Regex Online Tester: [www.regextester.com](https://www.regextester.com/)
 1. Certbot Free SSL: [Certbot](https://certbot.eff.org/)
 1. Mac EE Circuit Analysis: [MacSpice](http://www.macspice.com)
-1. File Synchronizer and Backups: [FreeFileSync](https://freefilesync.org/download.php)
+1. File Synchronizer and Backups: [FreeFileSync](https://freefilesync.org/download.php`)
