@@ -32,3 +32,6 @@ Note: I have been developing on Mac for almost a decade, so many of these progra
 1. Certbot Free SSL: [Certbot](https://certbot.eff.org/)
 1. Mac EE Circuit Analysis: [MacSpice](http://www.macspice.com)
 1. File Synchronizer and Backups: [FreeFileSync](https://freefilesync.org/download.php`)
+1. Mission Control Status Bar: [Spaceman](https://github.com/Jaysce/Spaceman)
+1. 62 Status Bar Apps: [Some Website](https://www.makeuseof.com/tag/ultimate-list-mac-menu-bar-apps/)
+1. Mac Shortcuts Cheatsheet App: [CheatSheet](https://www.mediaatelier.com/CheatSheet/)
